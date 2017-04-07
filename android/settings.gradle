@@ -1,0 +1,3 @@
+rootProject.name = 'Hame'
+
+include ':app'
